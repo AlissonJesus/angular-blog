@@ -1,0 +1,22 @@
+.cards {
+    display: flex;
+    gap: 2rem;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.cards, .header {
+    margin: 0 auto;
+    max-width: 120rem;
+}
+
+.cards__main, .cards__others {
+    
+}
+
+.cards__main {
+}
+
+.cards__others {
+    
+}

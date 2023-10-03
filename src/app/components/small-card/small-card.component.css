@@ -1,0 +1,15 @@
+.small-card {
+    width: 35rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    border-bottom: .1rem solid #ffffffb0;
+    padding-bottom: .6rem;
+    margin-bottom: .7rem;
+}
+
+
+
+.small-card__photo > img {
+    width: 10rem;
+}

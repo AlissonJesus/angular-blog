@@ -1,0 +1,13 @@
+.menu-title__container {
+    margin: 1rem 0;
+    
+}
+
+.menu-title__container>h1 {
+    text-align: center;
+    font-size: 16rem;
+    padding: 1rem .5rem;
+    font-weight: bold;
+    font-family: "segoe UI";
+
+}
