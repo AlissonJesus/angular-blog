@@ -1,0 +1,39 @@
+.content__container {
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    border: .1rem solid white;
+    padding-top: 1rem;
+
+
+}
+
+.content__cover {}
+
+
+.content__cover>img {
+    border: .5rem solid gray;
+    border-radius: .5rem;
+    width: 50rem;
+    height: 30rem;
+    min-width: 50rem;
+
+}
+
+.content__title {
+    position: relative;
+    line-height: 1.5;
+    display: inline-block;
+    margin-bottom: .5rem;
+    
+}
+
+.content__title>h1::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -.2rem;
+    background-color: #ffffff94;
+    width: 100%;
+    height: .2rem;
+}
